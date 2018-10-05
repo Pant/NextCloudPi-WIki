@@ -1,2 +1,1 @@
-NextCloudPi-Wiki
-recommonmark>=0.0.1
+recommonmark>=0.4
