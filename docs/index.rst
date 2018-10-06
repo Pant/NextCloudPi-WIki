@@ -7,8 +7,8 @@ Welcome to NextCloudPi's documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
+    :caption: Contents:
     Add-a-new-language-to-ncp-web
     BerryBoot-Instructions-for-NextCloudPi
     Configuration-Reference.md
