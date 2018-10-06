@@ -1,3 +1,7 @@
+FAQ
+===
+
+
 ### What is NextCloudPi?
 
 NextCloudPi is a ready to use image for Raspberry Pi that runs NextCloud software to enable your Pi to be a home cloud server.
