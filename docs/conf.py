@@ -52,8 +52,8 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-# See later in this file
 
+# See later in this file
 # source_suffix = '.rst'
 
 
