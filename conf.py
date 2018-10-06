@@ -6,4 +6,4 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
-master_doc = 'Home'
+master_doc = 'Home.md'
