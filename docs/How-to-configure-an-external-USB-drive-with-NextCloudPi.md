@@ -1,3 +1,6 @@
+How to configure an external USB drive with NextCloudPi
+=======================================================
+
 [nc-automount]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#nc-automount
 [nc-format-USB]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#nc-format-usb
 [nc-datadir]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#nc-datadir

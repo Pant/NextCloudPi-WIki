@@ -1,3 +1,6 @@
+How to install NextCloudPi
+==========================
+
 [ssh]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#ssh
 
 ## Download the Image for your Hardware

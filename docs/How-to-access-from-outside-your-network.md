@@ -1,3 +1,6 @@
+How to access outside of your network
+=====================================
+
 [nc-forward-ports]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#nc-forward-ports
 [freeDNS]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#freeDNS
 [no-ip]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#no-ip

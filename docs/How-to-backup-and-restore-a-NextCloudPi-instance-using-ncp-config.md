@@ -1,3 +1,6 @@
+How to backup and restore a NextCloudPi installation
+====================================================
+
 You may want to move your NCP instance to a larger drive or restore it after a hardware failure.
 
 ## Making backup excluding your data

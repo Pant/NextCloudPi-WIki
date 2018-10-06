@@ -1,3 +1,6 @@
+How to update Lynis
+===================
+
 **After running nc-audit your might see the following and wonder how to update Lynis:**
 
 `! Version of Lynis is very old and should be updated [LYNIS] 

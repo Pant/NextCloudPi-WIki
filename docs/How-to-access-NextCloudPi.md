@@ -1,3 +1,6 @@
+How to access NextCloudPi
+=========================
+
 [nc-wifi]: https://github.com/nextcloud/nextcloudpi/wiki/Configuration-Reference#nc-wifi
 
 This guide will help you access NextCloudPi.

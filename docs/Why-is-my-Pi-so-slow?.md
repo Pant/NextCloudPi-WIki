@@ -1,3 +1,6 @@
+Why is my Pi so slow?
+=====================
+
 # Why?
 The RaspberryPi has very limited in IO because micro SD card is slow and the USB-Bus is shared between USB(-Storage) and Ethernet(Network). 
 Circa 35 MB/s are shared between USB (the external storage when Nextcloud-data is moved there) and Ethernet.

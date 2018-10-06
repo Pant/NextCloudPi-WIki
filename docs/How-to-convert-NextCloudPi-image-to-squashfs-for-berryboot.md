@@ -1,3 +1,6 @@
+How to convert NextCloudPi image to squashfs for berryboot
+==========================================================
+
 Adding your own custom operating systems to the Berrboot menu
 
 You can add your own extra operating systems to the Berryboot menu. However this requires that you convert your file system image to SquashFS format first.

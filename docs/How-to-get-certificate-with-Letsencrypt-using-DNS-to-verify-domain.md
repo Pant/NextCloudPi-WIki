@@ -1,3 +1,6 @@
+How to get certificate with Letsencrypt using DNS to verify domain.md
+=====================================================================
+
 Sometimes ports 80 and 443 are not available.  We are going to use Letsencrypt's certbot `--manual` and `--preffered-challenges dns` options to get certificates and activate them manually. 
 You'll need a domain and access to the DNS records to create a TXT record pointing to: _acme-challenge.yourNCP.yourdomain.tld with a challenge value provided by `certbot` when running it with the `dns` option.
 

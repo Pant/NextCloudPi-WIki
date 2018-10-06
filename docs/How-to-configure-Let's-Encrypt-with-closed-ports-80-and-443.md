@@ -1,3 +1,6 @@
+How to configure Let's Encrypt with closed ports 80 and 443
+===========================================================
+
 _This entry was originally written by @albrechtar [in this github question](https://github.com/nextcloud/nextcloudpi/issues/186#issuecomment-328333387)_
 
 ## How to get SSL certs without using Cert Bot (in case you would need to use alternate ports on your instance of NextCloudPi)

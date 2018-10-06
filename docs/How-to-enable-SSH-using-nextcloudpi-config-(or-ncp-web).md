@@ -1,3 +1,6 @@
+How to enable SSH
+=================
+
 In terminal type:
 
 `sudo nextcloudpi-config`

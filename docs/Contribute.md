@@ -1,3 +1,6 @@
+Contribute
+==========
+
 There are a lot you can do to help to the NextCloudPi Project.
 
 ## Report Bugs

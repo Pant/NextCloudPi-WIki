@@ -1,3 +1,6 @@
+Two Factor Authentication for Nextcloud
+=======================================
+
 In Nextcloud, there is the option to set up Two Factor Authentication. The steps you have to follow in order to use it are the following:
 
 1. Install `TOTP` app on Nextcloud.

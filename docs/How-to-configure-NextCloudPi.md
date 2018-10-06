@@ -1,3 +1,6 @@
+How to configure NextCloudPi
+============================
+
 ## Choose an User Interface
 You can configure the NextCloudPi instance from the terminal user interface (TUI) or from the web user interface (WebUI). 
 Note: *The backend is the same.* All options can be accessible in either UI.
